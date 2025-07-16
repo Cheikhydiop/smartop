@@ -5483,3 +5483,10 @@
 {"level":"info","message":"Successfully connected to the database","service":"user-service"}
 {"level":"info","message":"Database connection test successful. User count: 17","service":"user-service"}
 {"level":"info","message":"Server is running on port 5000","service":"user-service"}
+{"level":"info","message":"Attempting to connect to the database...","service":"user-service"}
+{"level":"info","message":"Successfully connected to the database","service":"user-service"}
+{"level":"info","message":"Database connection test successful. User count: 17","service":"user-service"}
+{"level":"info","message":"Server is running on port 5000","service":"user-service"}
+{"level":"info","message":"Received shutdown signal, closing server...","service":"user-service"}
+{"level":"info","message":"HTTP server closed","service":"user-service"}
+{"level":"info","message":"Database connection closed","service":"user-service"}
